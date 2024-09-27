@@ -1,0 +1,998 @@
+@media screen and (max-width: 1400px) {
+  .home_banner_section .banner_slider .slick-dots {
+    left: 9%;
+}
+}
+@media screen and (max-width: 1199px) {
+  .common_content p,
+  .common_content ul li a {
+    line-height: normal;
+  }
+  .banner_center {
+    position: absolute;
+    top: 10.865vw;
+}
+.interest_section {
+    position: relative;
+    margin-top: -5rem;
+    z-index: 9;
+
+}
+.common_sub_heading h3 {
+    font-size: 18px;
+}
+.testimonial_section .slider-nav .common_content p {
+  font-size: 16px;
+}
+.testimonial_section .customer_div .customer_name {
+  font-size: 20px;
+}
+.home_banner_section .banner_slider .slick-dots {
+  left: 4%;
+}
+.common_heading {
+  font-size: 3.5vw;
+}
+/* about page start css */
+.our_value_section .common_content p {
+  font-size: 16px;
+  line-height: normal;
+}
+.our_value_section .our_value_heading {
+  font-size: 20px;
+  line-height: normal;
+}
+.our_value_section .row {
+  --bs-gutter-x: 3.083vw;
+  --bs-gutter-y: 3.083vw;
+}
+.board_section .board_box .board_img {
+  width: 12.458vw;
+}
+.board_section .customer_div .customer_name {
+  font-size: 1.663vw;
+}
+.board_section .customer_div.common_content p {
+  font-size: 16px !important;
+}
+.about_banner_section .about_banner_center {
+  max-width: 62%;
+}
+/* about page end css */
+
+/* product page css start */
+.checklist_section .checklist_img {
+  width: 5.083vw;
+}
+.checklist_section .checklist_txt {
+  font-size: 18px;
+}
+.checklist_section .checklist_txt br {
+  display: none;
+}
+.loan_option_section.product_loan {
+  padding-left: 0;
+}
+.loan_option_section .loan_option_left .terms_heading br {
+  display: none;
+}
+.product_loan .loan_option_step.common_content p {
+  max-width: 100%;
+}
+.testimonial_section .cell.hello {
+  padding: 0 6.25vw;
+  height: auto;
+}
+.board_section .common_content p {
+  font-size: 18px;
+}
+.board_section .advisor_div.common_content p {
+  width: 80%;
+}
+}
+  @media screen and (max-width: 991px) {
+  .common_content p, .common_content ul li a {
+    font-size: 16px;
+    line-height: normal;
+}
+.common_sub_heading h3 {
+  font-size: 18px;
+}
+.common_bg_heading h2 {
+  font-size: 18px;
+}
+.home_banner_section .banner_heading {
+  width: 55%;
+  margin: 0px;
+}
+h1.banner_conent {
+  font-size: 5.125vw;
+  line-height: normal;
+}
+h1.banner_conent br {
+  display: none;
+}
+.home_banner_section .home_banner_main .apply_btn {
+  bottom: 30%;
+}
+.home_banner_section::before {
+  width: 32.479vw;
+  height: 13.521vw;
+}
+.home_banner_section .banner_slider .slick-dots {
+  bottom: 10.375vw;
+  left: 6%;
+}
+.home_banner_section .banner_slider .slick-dots li {
+  margin: 0 10px;
+}
+.home_banner_section .breadcum li::before {
+  right: -16%;
+  top: 8px;
+}
+	  .approval_section .box-section .box-bg {
+    
+    width: 25.917vw;
+    height: 25vw;
+  
+}
+.quicker_section .quicker_box {
+  padding: 3.385vw 4.167vw;
+  height: 280px;
+}
+.quicker_section .quicker_heading {
+  font-size: 20px;
+  line-height: normal;
+}
+.quicker_section .credit_small_box {
+  width: 5.125vw;
+  height: 5.125vw;
+  font-size: 18px;
+}
+	  .quicker_section .slider_ul {
+  bottom: -10px;
+}
+.interest_section {
+  margin-top: -4rem;
+}
+.interest_section .interest_main {
+  border-radius: 10px;
+}
+.interest_section .interest_main {
+  border-radius: 20px;
+  background: #f0f0ff;
+  padding: 2.865vw 2.771vw;
+}
+.about_money_section .about_mission {
+  font-size: 25px;
+  line-height: normal;
+  margin-bottom: 1.26vw;
+}
+.about_money_section .misson_step {
+  gap: 1.26vw;
+}
+
+.credit_section .credit_heading_div .credit_txt {
+  font-size: 16px;
+}
+.app_section .app_scan_txt {
+  font-size: 16px;
+}
+.testimonial_section .testimonial_main .sin-testiText p {
+  padding: 0px;
+}
+.testimonial_section .testimonial_main .grid-padding-x > .cell:nth-child(1) .quotes::after {
+  right: -31px;
+}
+.testimonial_section .testimonial_main .grid-padding-x > .cell:nth-child(1) .quotes::before {
+  left: -30px;
+}
+.testimonial_section .customer_div .customer_name {
+  font-size: 22px;
+  margin-bottom: 5px;
+}
+.testimonial_section .slider-nav .common_content p {
+  font-size: 16px;
+}
+.about_money_section .about_left .loan_img {
+  width: 100%;
+}
+.interest_img {
+  width: auto;
+}
+h3.left_spacing_heading {
+    padding-left: 1.9vw;
+}
+.credit_section .credit_heading_div .credit_box {
+  width: 12.333vw;
+  height: 12.333vw;
+}
+.credit_section .credit_img {
+  width: 5.793vw;
+}
+.credit_section .credit_heading_div .credit_txt_box {
+  top: -2.563vw;
+}
+.credit_section .credit_small_box {
+  width: 5.125vw;
+  height: 5.125vw;
+  font-size: 2.875vw;
+
+}
+.business_section .row .col-xl-3:nth-child(even) {
+  margin-top: 0px;
+}
+.business_slider .slick-dots li button:before {
+  color: #aba9ff;
+  font-size: 1.521vw;
+}
+.business_slider .slick-dots li.slick-active button:before {
+  font-size: 1.521vw;
+  border: none;
+}
+.business_slider .slick-dots {
+  bottom: -5.688vw;
+}
+
+.quicker_section .slider_ul li.slick-arrow svg {
+  width: 5.177vw;
+  height: 3.177vw;
+}
+.frequently_section .faq_accordion-item .accordion-title {
+  padding-right: 10px;
+}
+.frequently_section .faq_accordion-item button::before {
+  width: 2.042vw;
+  height: 2.042vw;
+}
+.faq_accordion_main {
+  gap: 2.042vw;
+}
+.frequently_section .faq_accordion {
+  gap: 2.563vw;
+}
+
+.about_money_section .misson_step li {
+  line-height: normal;
+}
+.about_money_section .about_main .about_right {
+  width: 61.979vw;
+  padding: 5vw 0;
+}
+.about_money_section .common_heading {
+  margin-bottom: 5.125vw;
+}
+section.credit_section .row::before {
+  top: 22%;
+  left: 10%;
+}
+.common_btn {
+  font-size: 14px;
+  padding: 0.521vw 2.042vw;
+}
+.home_banner_section .banner_heading::before {
+  bottom: -1.135vw;
+  width: 10.208vw;
+  height: 0.26vw;
+}
+.home_banner_section .slick-dots li.slick-active button:before {
+  font-size: 10px;
+  line-height: 1.615vw;
+}
+.home_banner_div::before {
+  width: 30.479vw;
+}
+.container, .container-md, .container-sm {
+  max-width: 90% !important;
+}
+.testimonial_section .cell.hello {
+  padding: 0 6.25vw;
+  height: 280px;
+}
+.loan_option_section .loan_accordion {
+  list-style: none;
+  margin-left: 0px;
+  padding-left: 15px;
+}
+.loan_option_section .loan_option_step {
+  margin-left: 3.963vw;
+}
+.loan_option_section .loan_option_step h3:before {
+  content: "";
+  background-image: url(../images/li_icon.webp);
+  background-repeat: no-repeat;
+  position: absolute;
+  background-size: cover;
+  width: 20px;
+  height: 20px;
+  top: 0.26vw;
+  left: -3.5vw;
+}
+
+/* about page css start  */
+.about_banner_section .about_banner_center {
+  max-width: 50%;
+  top: 10.865vw;
+}
+.about_banner_section .banner_conent {
+  font-size: 4.125vw;
+  line-height: normal;
+}
+.our_value_section .common_sub_heading {
+  max-width: 85%;
+}
+.our_value_section .our_value_heading {
+  font-size: 1.5vw;
+}
+.our_value_section .our_value_heading {
+  font-size: 2.5vw;
+}
+.board_section .board_box .board_img {
+  width: 20.458vw;
+}
+.join_tribe_section .google_app_btn .Googleplaystore {
+  width: 15vw;
+}
+.join_tribe_section .google_app_btn .app_img {
+  width: 15vw;
+}
+.our_value_section .our_value_box {
+  padding: 4.125vw 2.083vw;
+}
+.our_value_section .row {
+  --bs-gutter-x: 4.083vw;
+  --bs-gutter-y: 5.083vw;
+}
+.board_section .row {
+  margin-top: 0px;
+  --bs-gutter-y: 50px;
+}
+/* product page css start */
+.checklist_section .checklist_img {
+  width: 40px;
+}
+.checklist_section .checklist_txt {
+  font-size: 18px;
+}
+.checklist_section .row {
+  --bs-gutter-y: 5vw;
+}
+.loan_option_section.product_loan {
+  padding-left: 45px;
+}
+.loan_option_section.product_loan .loan_option_left .terms_heading br {
+  display: none;
+}
+.product_loan .loan_option_step.common_content p {
+  max-width: 100%;
+}
+.loan_option_section.product_loan .loan_option_main .loan_option_left {
+  margin-top: 20px;
+}
+.terms_loan_section .row {
+  --bs-gutter-x: 5.083vw;
+  --bs-gutter-y: 5.083vw;
+}
+.terms_loan_section .terms_loan_img {
+  width: 10.306vw;
+  margin: auto;
+}
+.terms_loan_section .terms_loan_box {
+  padding: 6.125vw 3.083vw;
+  }
+  .terms_loan_section {
+    padding: 8.208vw 0;
+}
+.quicker_section .quicker_slider .slick-list.draggable {
+  padding-left: 6.021vw;
+}
+.quicker_section .slider_ul {
+  margin-left: 8.021vw;
+}
+
+}
+
+@media screen and (max-width: 767px) {
+  .credit_section {
+    padding: 12.208vw 0;
+}
+.credit_section .row {
+  --bs-gutter-y: 5vw;
+}
+
+  .common_heading {
+    font-size: 6.5vw;
+  }
+  .credit_section .credit_heading_div .credit_box {
+    width: 55.333vw;
+    height: 55.333vw;
+  }
+  .credit_section .credit_img {
+    width: 30.793vw;
+  }
+  .credit_section .credit_heading_div .credit_txt_box {
+    top: -8.563vw;
+  }
+  .credit_section .credit_small_box {
+    width: 20.125vw;
+    height: 20.125vw;
+    font-size: 8.875vw;
+  }
+  .credit_section .credit_heading_div .credit_txt {
+    font-size: 18px;
+    width: 100%;
+    margin-top: 5.302vw;
+  }
+  section.credit_section .row::before {
+    content: "";
+    display: none;
+  }
+  .interest_section {
+    margin-top: 0;
+  }
+  .interest_section .container {
+    max-width: 100% !important;
+  }
+  .interest_section .interest_main {
+    padding: 6vw;
+}
+  .interest_section .interest_div {
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    gap: 2.563vw;
+  }
+  .interest_section .interest_img {
+    width: auto;
+  }
+  .interest_section .interest_main .row
+  {
+    --bs-gutter-y: 5vw;
+  }
+  .app_section .app_main {
+    align-items: center;
+    flex-direction: column;
+  }
+  .app_section .app_main .app_left {
+    width: 100%;
+    text-align: center;
+  }
+  .app_section .app_left .app_img {
+    position: relative;
+    margin-right: 0;
+  }
+  .app_section .app_left .app_img .img_app {
+    width: 80%;
+  }
+  .app_section .app_main .app_left::after {
+    width: 100%;
+    height: 85%;
+    border-radius: 0 10.083vw 0 0;
+  }
+  .app_section .app_main .app_right {
+    width: 100%;
+    padding: 8vw;
+  }
+  .app_section .app_right .get_heading {
+    font-size: 5.875vw;
+    margin-bottom: 5.042vw;
+    letter-spacing: 1px;;
+  }
+  .app_section .app_scan_txt {
+    font-size: 20px;
+    margin-bottom: 5.823vw;
+  }
+  .app_section .border-txt {
+    position: relative;
+    margin-bottom: 8.823vw;
+    font-size: 30px;
+  }
+  .app_section .border-txt::before {
+    width: 14.74vw;
+    height: 1.26vw;
+    bottom: -2.521vw;
+  }
+  .app_section .scan_code {
+    width: 60%;
+    margin: auto;
+    margin-bottom: 10.604vw;
+  }
+  .social_networking .Googleplaystore {
+    width: 60%;
+  }
+  .social_networking .app_img {
+    width: 60%;
+  }
+  .app_section .social_networking {
+    gap: 6.042vw;
+  }
+  .approval_section {
+    position: relative;
+    padding-top: 12.167vw;
+    padding-bottom: 12.167vw;
+}
+  .approval_section .box-section {
+    flex-direction: column;
+    gap: 10.604vw;
+  }
+  
+  .approval_section .box-section .box-bg {
+    width: 85%;
+    border-radius: 10.083vw;
+	          height: 70vw;
+  }
+  .approval_section .box-section .box-img {
+    width: 80%;
+    padding: 15vw 15vw 6vw 15vw;
+    height: auto;
+  }
+  .approval_section .box-section .box-img img {
+    width: 100%;
+    height: auto;
+  }
+  .common_bg_heading h2 {
+    font-size: 18px;
+  }
+  .interest_section .common_bg_heading h2 {
+    width: 100%;
+}
+  .loan_option_section {
+    padding-left: 0;
+    height: auto;
+  }
+  .loan_option_section .loan_option_main {
+    flex-direction: column;
+    gap: 0;
+  }
+  .loan_option_section .loan_accordion {
+    list-style: none;
+    padding-left: 8vw;
+    margin-left: 0px;
+    min-height: 110vw;
+  }
+  .loan_option_section .loan_option_step {
+    margin-left: 6.563vw;
+    margin-bottom: 5.042vw;
+}
+.loan_option_section .loan_option_step h3:before {
+  left: -6.802vw;
+  width: 15px;
+  height: 15px;
+  top: 1.26vw;
+}
+.loan_option_section .loan_option_left .common_sub_heading h3 {
+  padding-left: 2vw;
+}
+  .loan_option_section .loan_option_main .loan_option_left {
+    width: 100%;
+    padding-top: 6.898vw;
+    align-items: start;
+  }
+  .loan_option_section .loan_option_main .loan_option_right {
+    width: 100%;
+  }
+  .loan_option_section .txt_box {
+    width: 85%;
+  }
+  .common_sub_heading h3 {
+    font-size: 5.042vw;
+  }
+  .common_bold_heading {
+    font-size: 6.5vw;
+  }
+  .loan_option_section .loan_option_left .get_heading {
+    font-size: 20px;
+    margin-bottom: 5.956vw;
+  }
+  .common_btn {
+    padding: 1.821vw 4.042vw;
+  }
+  .loan_option_section .accordion-list {
+    padding: 2.625vw 5.563vw;
+    padding-right: 0px;
+  }
+  .business_section {
+    padding: 15.073vw 0;
+}
+  .business_section .business_box {
+    border-radius: 5.563vw;
+    background: #f0f0ff;
+    width: 80%;
+    padding: 45px;
+    margin: auto;
+    height: 65vw;
+  }
+  .business_box.common_content p {
+    font-size: 18px;
+}
+  .business_section .business_img {
+    width: auto;
+    align-items: center;
+    margin: auto;
+  }
+  .business_section .row .col-xl-3:nth-child(even) {
+    margin-top: 0;
+  }
+  .business_slider .slick-dots {
+    bottom: -15.688vw;
+  }
+  .business_slider .slick-dots li {
+    margin: 0 1.9vw;
+  }
+  .business_slider .slick-dots li button:before {
+    font-size: 5.521vw;
+  }
+  .business_slider .slick-dots li.slick-active button:before {
+    font-size: 5.521vw;
+    line-height: 0;
+    border: none;
+  }
+  .top_content {
+    margin-bottom: 10vw;
+  }
+  .quicker_section .quicker_slider .slick-list.draggable {
+    padding-left: 0;
+  }
+  .quicker_section .quicker_box {
+    border-radius: 5.563vw;
+    gap: 5.042vw;
+    height: 100.875vw;
+    justify-content: center;
+    align-items: center;
+    padding: 3.385vw 6.167vw;
+  }
+  .quicker_box.common_content p {
+    text-align: center;
+  }
+  .quicker_section .credit_small_box {
+    width: 20.125vw;
+    height: 20.125vw;
+    font-size: 8.875vw;
+  }
+  .quicker_section .quicker_heading {
+    font-size: 6.563vw;
+    line-height: normal;
+    text-align: center;
+  }
+  .common_content p,
+  .common_content ul li a {
+    line-height: normal;
+  }
+  .quicker_section .slider_ul {
+    bottom: -13.646vw;
+    left: 30%;
+    width: 10%;
+    margin-left: 0;
+    gap: 8vw;
+  }
+  .quicker_section .slider_ul li.slick-arrow svg {
+    width: 15.177vw;
+    height: 15.177vw;
+  }
+  .testimonial_section {
+    padding: 15.906vw 0;
+  }
+  .testimonial_section .testimonial_main .sin-testiText p {
+    padding: 0;
+  }
+  .testimonial_section
+    .testimonial_main
+    .grid-padding-x
+    > .cell:nth-child(1)
+    .quotes::after,
+  .testimonial_section
+    .testimonial_main
+    .grid-padding-x
+    > .cell:nth-child(1)
+    .quotes::before {
+    font-size: 15.208vw;
+  }
+  .testimonial_section
+    .testimonial_main
+    .grid-padding-x
+    > .cell:nth-child(1)
+    .quotes::after {
+      top: -2.26vw;
+      right: -10.167vw;
+  }
+  .testimonial_section .customer_div .customer_name {
+    font-size: 6.563vw;
+  }
+  .testimonial_section .slider-nav .common_content p {
+    font-size: 16px;
+  }
+  .testimonial_section
+    .testimonial_main
+    .grid-padding-x
+    > .cell:nth-child(1)
+    .quotes::before {
+      top: -2.354vw;
+      left: -10.646vw;
+
+  }
+  .testimonial_section .testimonial_main .sin-testiImage.slick-current img {
+    -webkit-transform: scale(0.8);
+    transform: scale(0.8);
+  }
+  .partners_section {
+    padding: 12.802vw 0;
+  }
+
+  .partners_section .partners_div .logo {
+    width: 100%;
+  }
+  .faq_accordion_main {
+    flex-direction: column;
+  }
+  .frequently_section .faq_accordion {
+    gap: 5vw;
+  }
+  .frequently_section .faq_accordion .faq_accordion-item {
+    padding: 3.521vw 4.823vw 3.521vw 2.823vw;
+  }
+  .frequently_section .faq_accordion-item button::before {
+    width: 5.042vw;
+    height: 5.042vw;
+  }
+  .frequently_section .faq_accordion-item button {
+    padding-right: 10vw;
+  }
+  .faq_accordion-item.common_content p {
+    padding: 5vw 2vw;
+  }
+  
+  .about_money_section {
+    padding-top: 10.167vw;
+  }
+  .about_money_section .common_heading {
+    margin-bottom: 8.125vw;
+    max-width: 100%;
+  }
+  .about_money_section .about_main_div {
+    width: 100%;
+  }
+  .about_money_section .about_main {
+    width: 100%;
+    gap: 0;
+    flex-direction: column;
+  }
+  .about_money_section .about_left {
+    width: 100%;
+    padding-top: 10.563vw;
+  }
+  .about_money_section .about_left .about_logo {
+    padding-right: 0;
+    margin: 0 auto;
+    width: 100%;
+    text-align: center;
+  }
+  .about_money_section .about_left .loan_img img {
+    margin-top: 5vw;
+  }
+  .about_money_section .about_left .about_logo .logo_img_about {
+    width: 50%;
+    float: none;
+    margin: auto;
+  }
+  .about_money_section .about_left .loan_img {
+    width: 100%;
+    position: relative;
+  }
+  .about_money_section .about_main .about_right {
+    width: 100%;
+    padding: 10vw 15px;
+  }
+  .about_money_section .about_right .common_content {
+    width: 100%;
+  }
+  .about_money_section .about_mission {
+    font-size: 10.25vw;
+    margin-top: 8vw;
+  }
+  .about_money_section .misson_step {
+    flex-direction: column;
+  }
+  .about_money_section .misson_step li {
+    line-height: 6vw;
+  }
+  .frequently_section {
+    width: 100%;
+    padding: 12.292vw 0;
+}
+
+
+
+.home_banner_div img {
+  object-fit: cover;
+  height: 420px;
+}
+.banner_center {
+  position: absolute;
+  top: 85px;
+}
+.home_banner_section .banner_heading {
+  width: 85%;
+  max-width: 70%;
+}
+h1.banner_conent {
+  font-size: 8.125vw;
+  line-height: normal;
+}
+.home_banner_section::before {
+  width: 60vw;
+  height: 25vw;
+}
+.home_banner_section .banner_slider .slick-dots {
+  bottom: 15.375vw;
+  left: 8%;
+}
+.home_banner_section .slick-dots li.slick-active button:before {
+  font-size: 10px;
+  line-height: 2.615vw;
+}
+.home_banner_section .home_banner_main .apply_btn {
+  bottom: 24%;
+}
+.common_btn {
+  font-size: 12px;
+  border-radius: 5px;
+}
+.home_banner_section .banner_heading::before {
+  bottom: -10px;
+  width: 15.208vw;
+  height: 0.70vw;
+}
+.home_banner_section .breadcum {
+  margin-top: 5.344vw;
+}
+.home_banner_section .breadcum li::before {
+ 
+  right: -12%;
+  top: 6px;
+  width: 0.104vw;
+  height: 4.302vw;
+}
+.home_banner_section .breadcum {
+  gap: 5.865vw;
+}
+.business_section .common_heading {
+  margin-bottom: 4.521vw;
+}
+.quicker_section .custom_wrapper {
+  width: 100%;
+  overflow: hidden;
+  padding: 0px 20px;
+}
+.home_banner_div::before {
+  width: 50.479vw;
+  height: 25vw;
+}
+.about_money_section .misson_step li:before {
+  left: -6.302vw;
+}
+
+	h3.left_spacing_heading {
+    margin-left: 6vw;
+    margin-bottom: 5vw;
+}
+
+
+/* about pafe section css start  */
+.about_banner_div img {
+  height: 350px;
+  object-fit: cover;
+}
+.about_banner_section .about_banner_center {
+  top: 28.865vw;
+  max-width: 70%;
+}
+.our_value_section {
+  padding: 12.25vw 0px;
+}
+.our_value_section .common_sub_heading {
+  max-width: 100%;
+}
+.our_value_section .our_value_heading {
+  font-size: 20px;
+}
+.our_value_section .our_value_box {
+  padding: 10.125vw 6.083vw;
+
+}
+.board_section .board_box .board_img {
+  width: 65%;
+}
+.board_section .customer_div .customer_name {
+  font-size: 20px;
+}
+.board_section .advisor_div.common_content p {
+  width: 100%;
+}
+.join_tribe_section .google_app_btn {
+  gap: 5.042vw;
+}
+.join_tribe_section .google_app_btn .Googleplaystore {
+  width: 40%;
+}
+.join_tribe_section .google_app_btn .app_img {
+  width: 40%;
+}
+.join_tribe_section {
+  padding: 12.167vw 0px;
+}
+.our_value_section .row {
+  --bs-gutter-y: 10.083vw;
+}
+.board_section .top_content {
+  margin-bottom: 0px;
+}
+.board_section {
+  padding: 12.25vw 0px;
+}
+.board_section .advisor_div {
+  padding: 12.25vw 0px;
+}
+.about_banner_section .banner_conent {
+  font-size: 7.125vw;
+}
+/* about pafe section css end  */
+
+
+/* product page css start */
+.checklist_section {
+  padding: 12.563vw 0px 0px 0px;
+}
+.checklist_section .row {
+  --bs-gutter-y: 8vw;
+}
+.checklist_section .top_content {
+  margin-bottom: 10vw;
+}
+.checklist_section .checklist_div {
+  gap: 3.781vw;
+}
+.terms_loan_section {
+  position: relative;
+  background-color: #F0F0FF;
+  padding: 12.208vw 0;
+}
+.terms_loan_section .terms_loan_img {
+  width: 20.306vw;
+  margin: auto;
+}
+.terms_loan_section .row {
+  --bs-gutter-y: 12.083vw;
+}
+.terms_loan_section .terms_loan_box {
+  padding: 60px 20px;
+}
+.loan_option_section.product_loan {
+  padding-left: 0px;
+  padding-top: 12.899vw;
+}
+.loan_option_section.product_loan .loan_option_step {
+  margin-left: 0px;
+  margin-bottom: 5.042vw;
+  margin-top: 2vw;
+}
+.product_loan .loan_option_step.common_content p {
+  max-width: 100%;
+}
+.quicker_section {
+  position: relative;
+  padding: 12.031vw 0;
+}
+	
+/* product page css end */
+}
+@media screen and (max-width: 375px) {
+  .home_banner_div img {
+    object-fit: cover;
+    height: 400px;
+}
+	.home_banner_section .home_banner_main .apply_btn {
+  bottom: 20%;
+}
+
+
+}

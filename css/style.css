@@ -1,0 +1,307 @@
+/* About page css start */
+
+
+/* About Banner Section start  */
+.about_banner_section {
+    position: relative;
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  .about_banner_section .about_banner_main {
+    width: 100%;
+    height: 100%;
+  }
+  .about_banner_section .about_banner_div {
+    width: 100%;
+    position: relative;
+  }
+  .about_banner_div::before {
+    position: absolute;
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(316deg, rgba(255, 255, 255, 0.00) 63.3%, #FFF 100%);
+    mix-blend-mode: screen;
+}
+  .about_banner_section .about_banner_center {
+    position: absolute;
+    top: 12.865vw;
+    max-width: 45%;
+}
+.about_banner_center h1.banner_conent::before {
+    display: none;
+}
+
+/* About Banner Section End */
+
+/* Our Valur Section start  */
+.our_value_section {
+    position: relative;
+    width: 100%;
+    padding: 6.25vw 0px;
+  }
+.our_value_section .common_content p {
+    font-size: 1.146vw;
+    line-height: normal;
+}
+  .our_value_section .common_sub_heading {
+    max-width: 65%;
+    margin-bottom: 4.271vw;
+}
+.our_value_section .common_heading {
+    margin-bottom: 0.521vw;
+}
+.our_value_section .our_value_box {
+    border-radius: 2.083vw;
+    background: #F0F0FF;
+    padding: 3.125vw 2.083vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: start;
+    text-align: center;
+    gap: 15px;
+    height: 100%;
+}
+.our_value_section .our_value_heading {
+    color: #605ebc;
+    font-family: Manrope-Bold;
+    font-size: 1.563vw;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 1.875vw;
+    padding: 0px 0.26vw;
+    text-align: center;
+    width: 100%;
+}
+
+.our_value_section .row {
+    --bs-gutter-x: 2.083vw;
+    --bs-gutter-y: 2.083vw;
+}
+/* Our Valur Section end  */
+
+/* Board and Management Section Start */
+.board_section {
+    position: relative;
+    width: 100%;
+    padding: 6.25vw 0px;
+    background: #F0F0FF;
+}
+.board_section .common_content p {
+    font-size: 1.146vw;
+    line-height: normal;
+}
+.board_section .top_content {
+    margin-bottom: 60px;
+}
+.board_section .board_box{
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: center;
+    gap: 20px;
+}
+.board_section .board_box .board_img {
+    width: 11.458vw;
+}
+.board_section .board_box .board_img img {
+    width: 100%;
+}
+.board_section .customer_div {
+    text-align: center;
+    width: 100%;
+}
+.board_section .customer_div .customer_name {
+    color: #605ebc;
+    text-align: center;
+    font-size: 1.563vw;
+    font-style: normal;
+    line-height: normal;
+    font-weight: 700;
+}
+.board_section .customer_div.common_content p {
+    font-size: 1.25vw;
+    line-height: 150%;
+}
+.board_section .row {
+    --bs-gutter-y: 60px;
+    margin-top: 4.167vw;
+}
+.board_section .advisor_div {
+    padding-top: 6.25vw;
+}
+.board_section .advisor_div.common_content p {
+    width: 70%;
+    margin: auto;
+    text-align: center;
+} 
+/* Board and Management Section End */
+.about_patner_sec .top_content {
+    margin-bottom: 1.667vw;
+}
+/* Join growing tribe Section Start CSS  */
+.join_tribe_section {
+    position: relative;
+    width: 100%;
+    padding: 4.167vw 0px;
+    background: #120E34;
+}
+.join_tribe_section .common_heading {
+    color: #fff;
+}
+.join_tribe_section .google_app_btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1.042vw;
+    margin-top: 2.083vw;
+}
+.join_tribe_section .google_app_btn .Googleplaystore {
+    width: 11.458vw;
+}
+.join_tribe_section .google_app_btn .app_img {
+    width: 11.458vw;
+}
+/* Join growing tribe Section End CSS  */
+
+/* About page css start */
+
+
+/* product page css start  */
+.product_banner .banner_heading {
+    width: 60%;
+    margin: 0px;
+}
+
+.product_banner .product_sub_heading {
+    color: #120E34;
+    font-family: Manrope-bold;
+    font-size: 1.875vw;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    max-width: 40%;
+}
+.product_banner .banner_center {
+    position: absolute;
+    top: 8.865vw;
+}
+.product_banner h1.banner_conent::before {
+    background: #605EBC;
+    width: 100px;
+    height: 5px;
+    flex-shrink: 0;
+    content: "";
+    position: absolute;
+    bottom: -80%;
+}
+
+.product_category_banner .banner_heading {
+    width: 58%;
+    margin: 0px;
+}
+.product_category_banner .product_sub_heading {
+    max-width: 55%;
+    color: #120E34;
+    font-family: Manrope-bold;
+    font-size: 1.875vw;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+.product_category_banner .banner_center {
+    position: absolute;
+    top: 8.865vw;
+}
+.product_category_banner h1.banner_conent::before {
+    background: #605EBC;
+    width: 100px;
+    height: 5px;
+    flex-shrink: 0;
+    content:"";
+    position: absolute;
+    bottom: -80%;
+  }
+  .home_banner_section .product_category_banner .apply_btn {
+    position: absolute;
+    bottom: 34%;
+    z-index: 9999;
+}
+.home_banner_section .product_banner .apply_btn {
+    position: absolute;
+    bottom: 34%;
+    z-index: 9999;
+}
+.checklist_section {
+    position: relative;
+    width: 100%;
+    padding: 1.563vw 0px;
+}
+.checklist_section .checklist_div {
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    gap: 0.781vw;
+}
+.checklist_section .checklist_img {
+    width: 2.083vw;
+}
+.checklist_section .checklist_txt {
+    color: #605EBC;
+    font-size: 1.25vw;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.checklist_section .top_content {
+    margin-bottom: 2.604vw;
+}
+.product_loan .loan_option_step.common_content p {
+    max-width: 85%;
+    padding: 10px 0;
+}
+.product_loan .loan_option_step {
+    margin-left: 5px;
+}
+.loan_option_section.product_loan {
+    position: relative;
+    background-color: #fff;
+    padding-left: 13.021vw;
+}
+.terms_loan_section {
+    position: relative;
+    background-color: #F0F0FF;
+    padding: 6.208vw 0;
+}
+.terms_loan_section  .terms_loan_box {
+    border-radius: 40px;
+    background: #FFF;
+    padding: 3.125vw 2.083vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: start;
+    text-align: center;
+    gap: 15px;
+    height: 100%;
+}
+.terms_loan_section .terms_loan_img {
+    width: 4.306vw;
+    margin: auto;
+}
+.terms_loan_section .terms_loan_img img{
+    width: 100%;
+}
+.terms_loan_section .row {
+    --bs-gutter-x: 2.083vw;
+    --bs-gutter-y: 2.083vw;
+}
+
+/* product page css end  */
+
+    
